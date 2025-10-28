@@ -1,6 +1,6 @@
 # Multi-Modal Visual Question Answering
 
-> Status: In Development
+> Status: Planned
 
 ## Overview
 A deep learning system that answers natural language questions about images by combining computer vision and natural language processing through multi-modal transformers.
